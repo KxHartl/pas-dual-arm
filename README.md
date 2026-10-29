@@ -75,8 +75,8 @@ repository. They are fetched straight from their authors at pinned revisions lis
 `ros2.repos` (attribution and licences: [§12](#12-third-party-packages)).
 
 ```bash
-git clone https://github.com/KxHartl/PAS-DUAL-ARM.git
-cd PAS-DUAL-ARM
+git clone https://github.com/KxHartl/pas-dual-arm.git
+cd pas-dual-arm
 
 vcs import src < ros2.repos     # aruco_ros, omni_base_simulation, pan_tilt_ros,
                                 # realsense-ros, ros2_kortex — from the authors' GitHub
